@@ -32,16 +32,40 @@
     "title": "Nossa história em fotos",
     "subtitle": "Cada imagem guarda um pedacinho desse dia.",
     "photos": [
-      { "url": "https://lh3.googleusercontent.com/pw/AP1GczP6SM7lfo-uLU-ak5ma9j1fU1iKbQSC4lxvYYVnSFNMBY8ibTtpmJj_5uLN7O7sHklIIB_DKeBiFDAVh1kgoSxrYh658_pOte_IUC9NF8ZVlC2Fb50ABQDSpFbMANmJS5b2ZH-ijsoYg9XG4gs7LaA=w665-h997-s-no-gm?authuser=3", "alt": "Pablo e Duda" },
-      { "url": "https://lh3.googleusercontent.com/pw/AP1GczNPJckUWN68LgOUdLgHfMCQMXPUVF_i5lvhYkkktV8Y5lnFVQRk8mA5UA6srruJZOVeN7pBs7JOMr88Suvh7lI0M3jIpW9FqQKdq3bA3bdwGsvgKDUTmN_WOZRECd2hx_5wNII4sG7rebzLStNGKxk=w665-h997-s-no-gm?authuser=3", "alt": "Pablo e Duda" },
-      { "url": "https://lh3.googleusercontent.com/pw/AP1GczM8WqhEhNUEtlY-2Sk7A8jJRWbdxf0G7Pqs04RZHhpPUWXi1UQwC_C3GtrCw2266dx0yEzV5y9TyboFvCg-4cd4pEdrauNLqQYRUy3kreeDo3f9KU-s-lJLCgTGo98mp4WOPc00HjYUUWrY0_G1zw8=w1496-h997-s-no-gm?authuser=3", "alt": "Cerimônia" },
-      { "url": "https://lh3.googleusercontent.com/pw/AP1GczMPsk-w-TC47ZgOWruC3mRzR3H-NuxsZu8KlWXsOC8SkHZ0QmhirAfV5lbKPUZW9uVNpgUfY6xSbeBoe0jwn25H1pWvNrI36TXbHC0bha2_Cq9pRIG5DvbxvVIq_fiKylTXFpv2iE55ykOcyAZgjK0=w665-h997-s-no-gm?authuser=3", "alt": "Pablo e Duda" },
-      { "url": "https://lh3.googleusercontent.com/pw/AP1GczMHEtLbTTG_a-BpSYsu6IndY50u6Gzj7Ardpi4Xc-24_rczrbyyp5OjStsTQMJZg1gI6ZVQj1dYSbiaXIeBWLYMc9GOpW6K20_W3dEfFBJM2_15O1u57DHD5XMQOeuLmNTSPPp6OEgzQNu80icCMeU=w1496-h997-s-no-gm?authuser=3", "alt": "Cerimônia" }
+      {
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczP6SM7lfo-uLU-ak5ma9j1fU1iKbQSC4lxvYYVnSFNMBY8ibTtpmJj_5uLN7O7sHklIIB_DKeBiFDAVh1kgoSxrYh658_pOte_IUC9NF8ZVlC2Fb50ABQDSpFbMANmJS5b2ZH-ijsoYg9XG4gs7LaA=w665-h997-s-no-gm?authuser=3",
+        "alt": "Pablo e Duda"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczNPJckUWN68LgOUdLgHfMCQMXPUVF_i5lvhYkkktV8Y5lnFVQRk8mA5UA6srruJZOVeN7pBs7JOMr88Suvh7lI0M3jIpW9FqQKdq3bA3bdwGsvgKDUTmN_WOZRECd2hx_5wNII4sG7rebzLStNGKxk=w665-h997-s-no-gm?authuser=3",
+        "alt": "Pablo e Duda"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczM8WqhEhNUEtlY-2Sk7A8jJRWbdxf0G7Pqs04RZHhpPUWXi1UQwC_C3GtrCw2266dx0yEzV5y9TyboFvCg-4cd4pEdrauNLqQYRUy3kreeDo3f9KU-s-lJLCgTGo98mp4WOPc00HjYUUWrY0_G1zw8=w1496-h997-s-no-gm?authuser=3",
+        "alt": "Cerimônia"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczMU41d2lleLjHVBDcWa1IMtjFoAaPPMxxx8Kd_UC9yroSpPI9p1Zvf5l_2k-GzauWvAz7w9Qt6Rx4yEngimb22sGiH26LTI1OmeHRaEaFT3Ej4Pmc0Hvsf7nwvU4C4Ejbuy956IAZzMWeKRn5IoQlU=w665-h997-s-no-gm?authuser=3",
+        "alt": "Pablo e Duda"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/pw/AP1GczMHEtLbTTG_a-BpSYsu6IndY50u6Gzj7Ardpi4Xc-24_rczrbyyp5OjStsTQMJZg1gI6ZVQj1dYSbiaXIeBWLYMc9GOpW6K20_W3dEfFBJM2_15O1u57DHD5XMQOeuLmNTSPPp6OEgzQNu80icCMeU=w1496-h997-s-no-gm?authuser=3",
+        "alt": "Cerimônia"
+      }
     ]
   },
   "nav": [
-    { "label": "Início", "href": "#hero" },
-    { "label": "Memórias", "href": "#evento" },
-    { "label": "Galeria", "href": "#galeria" }
+    {
+      "label": "Início",
+      "href": "#hero"
+    },
+    {
+      "label": "Memórias",
+      "href": "#evento"
+    },
+    {
+      "label": "Galeria",
+      "href": "#galeria"
+    }
   ]
 }
